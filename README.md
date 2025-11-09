@@ -11,5 +11,6 @@ A simple html file<br>
     <h1>This is a heading</h1>
     <h1>This is a heading</h1>
     <h1>This is a heading</h1>
+    <p>This is a paragraph</p>
 </body>
 </html>
